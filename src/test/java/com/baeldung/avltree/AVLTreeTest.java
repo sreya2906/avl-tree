@@ -49,7 +49,7 @@ public class AVLTreeTest extends TestCase {
 		//fail("Not yet implemented");
 	}
 
-	/**
+	/** 
 	 * Test method for {@link com.baeldung.avltree.AVLTree#getBalance(com.baeldung.avltree.AVLTree.Node)}.
 	 */
 	public void testGetBalance() {
