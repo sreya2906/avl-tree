@@ -1,4 +1,4 @@
-package PAS.avl_tree;
+package com.baeldung.avltree;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
