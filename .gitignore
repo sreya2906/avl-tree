@@ -23,5 +23,6 @@
 hs_err_pid*
 /.project
 target/
-target/maven-status/
+bin/
+.DS_Store
 .settings/
