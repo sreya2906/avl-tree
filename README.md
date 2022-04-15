@@ -1,5 +1,5 @@
 # avl-tree
-CI and JUNIT integration for Maven project
+TravisCI, EvoSuite and JUNIT integration for Maven project
 
 ### STATUS OF THE BUILD
 * Failing due to one failed test case written to find the bug in the code.
