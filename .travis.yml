@@ -7,7 +7,6 @@ script:
   - mvn evosuite:help
   - mvn evosuite:generate
   - mvn evosuite:info
-  - mvn evosuite:export
   - mvn test
 
 after_success:
